@@ -1,0 +1,67 @@
+Ë10:51:44.105 [Test worker] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3e84448c
+å10:51:44.125 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+Ö10:51:44.243 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+Ô10:51:44.245 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+á10:51:44.247 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+Þ10:51:44.249 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+ã10:51:44.254 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor'
+Ÿ10:51:44.258 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'appConfig'
+¤10:51:44.264 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'studentService'
+ 10:51:44.286 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'studentDao'
+ë10:51:44.289 [Test worker] DEBUG org.springframework.core.env.PropertySourcesPropertyResolver - Found key 'studentService.numberOfStudents' in PropertySource 'class path resource [student_service.properties]' with value of type String
+Ö10:51:44.301 [Test worker] DEBUG org.springframework.core.env.PropertySourcesPropertyResolver - Found key 'department' in PropertySource 'class path resource [student_service.properties]' with value of type String
+Porg.springframework.context.annotation.internalConfigurationAnnotationProcessor
+Lorg.springframework.context.annotation.internalAutowiredAnnotationProcessor
+Iorg.springframework.context.annotation.internalCommonAnnotationProcessor
+Norg.springframework.context.annotation.internalPersistenceAnnotationProcessor
+Aorg.springframework.context.event.internalEventListenerProcessor
+?org.springframework.context.event.internalEventListenerFactory
+
+appConfig
+studentService
+studentDao
+ZStudent{id=0, firstName='Eric', surName='Colbert', dept='English Literature', fees=145.0}
+Ë10:51:44.379 [Test worker] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@65fe9e33
+å10:51:44.380 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+Ö10:51:44.382 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+Ô10:51:44.383 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+á10:51:44.383 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+Þ10:51:44.384 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+ã10:51:44.384 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor'
+Ÿ10:51:44.385 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'appConfig'
+¤10:51:44.386 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'studentService'
+ 10:51:44.387 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'studentDao'
+ë10:51:44.388 [Test worker] DEBUG org.springframework.core.env.PropertySourcesPropertyResolver - Found key 'studentService.numberOfStudents' in PropertySource 'class path resource [student_service.properties]' with value of type String
+Ö10:51:44.388 [Test worker] DEBUG org.springframework.core.env.PropertySourcesPropertyResolver - Found key 'department' in PropertySource 'class path resource [student_service.properties]' with value of type String
+Porg.springframework.context.annotation.internalConfigurationAnnotationProcessor
+Lorg.springframework.context.annotation.internalAutowiredAnnotationProcessor
+Iorg.springframework.context.annotation.internalCommonAnnotationProcessor
+Norg.springframework.context.annotation.internalPersistenceAnnotationProcessor
+Aorg.springframework.context.event.internalEventListenerProcessor
+?org.springframework.context.event.internalEventListenerFactory
+
+appConfig
+studentService
+studentDao
+Ë10:51:44.398 [Test worker] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@40dff0b7
+å10:51:44.399 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+Ö10:51:44.402 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+Ô10:51:44.402 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+á10:51:44.403 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+Þ10:51:44.403 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+ã10:51:44.403 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor'
+Ÿ10:51:44.404 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'appConfig'
+¤10:51:44.405 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'studentService'
+ 10:51:44.406 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'studentDao'
+ë10:51:44.407 [Test worker] DEBUG org.springframework.core.env.PropertySourcesPropertyResolver - Found key 'studentService.numberOfStudents' in PropertySource 'class path resource [student_service.properties]' with value of type String
+Ö10:51:44.408 [Test worker] DEBUG org.springframework.core.env.PropertySourcesPropertyResolver - Found key 'department' in PropertySource 'class path resource [student_service.properties]' with value of type String
+Porg.springframework.context.annotation.internalConfigurationAnnotationProcessor
+Lorg.springframework.context.annotation.internalAutowiredAnnotationProcessor
+Iorg.springframework.context.annotation.internalCommonAnnotationProcessor
+Norg.springframework.context.annotation.internalPersistenceAnnotationProcessor
+Aorg.springframework.context.event.internalEventListenerProcessor
+?org.springframework.context.event.internalEventListenerFactory
+
+appConfig
+studentService
+studentDao

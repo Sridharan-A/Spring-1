@@ -9,4 +9,5 @@ public interface StudentService {
     Student getOne(long id);
 
     Collection<Student> getAllStudents();
+    Collection<Student> getStudentsForDept();
 }
